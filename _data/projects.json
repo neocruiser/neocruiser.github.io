@@ -1,42 +1,42 @@
 [
 	{
 		"slug": "cool-project",
-		"name": "Cool project 1",
+		"name": "Lymphoma & Machine Learning Classification",
 		"image": "placeholder.jpg",
 		"url": "https://www.google.com",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"date": "Dec 2017",
+		"tags": ["Machine Learning","R"]
 	},
 	{
-		"name": "Cool project 2",
+		"name": "Host-Parasite Cross-Talk & Transcriptomics",
 		"image": "placeholder.jpg",
 		"url": "#",
-		"date": "May 2014",
-		"tags": ["Python","Django"]
+		"date": "Dec 2016",
+	    "tags": ["Bash","R","Genetic Networks"]
 	},
 	{
-		"name": "Cool project 3",
+		"name": "Genetic Interactions & Neuropeptides Across Tissues",
 		"image": "placeholder.jpg",
 		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","Django"]
+		"date": "Dec 2015",
+	    "tags": ["Bash","R","Genetic Networks"]
 	},
 	{
-		"name": "Cool project 4",
+		"name": "Finding New Virulence Genes",
 		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
+		"date": "Aug 2015",
+	    "tags": ["R","Bash","Data Mining"]
 	},
 	{
-		"name": "Cool project 5",
+		"name": "New Mechanisms In Growth & Mortality",
 		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
+		"date": "Dec 2014",
+		"tags": ["Machine Learning","R"]
 	},
 	{
-		"name": "Cool project 6",
+		"name": "New Regulators Of Growth & Metamorphosis",
 		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
+		"date": "Dec 2013",
+		"tags": ["R","Genetic Networks"]
 	}
 ]

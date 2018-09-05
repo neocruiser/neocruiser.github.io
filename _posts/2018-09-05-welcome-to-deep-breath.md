@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Deep Breath!"
-date:   2018-09-05 15:56:21 -0400
-categories: [bioinformatics]
+title: "Welcome to Deep Breath!"
+date: 2018-09-05 19:51:02 +0700
+categories: [bioinformatics, pipelines]
+tags: [genetics, pipelines]
+image: Broadcast_Mail.png
 ---
-
 
 For more than a decade, I've worked in academia to simplify carefully designed experiments. 
 I covered diverse species from bacteria, invertebrates to human genetics. 
