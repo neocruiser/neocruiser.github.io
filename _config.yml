@@ -3,7 +3,7 @@ description: Genetics Meets Visualization
 author: Sleiman Bassim
 github: https://github.com/neocruiser
 about: I apply computational statistics to genomic & genetic data.
-avatar_url: /static/img/avatar.jpg
+avatar_url: /static/img/
 
 enableTags: true
 tagarray: []

@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Deep Breath!"
 date:   2018-09-05 15:56:21 -0400
-categories: bash
+categories: [bioinformatics]
 ---
 
 
@@ -22,7 +22,7 @@ Lastly, rare signals are inferred using `pattern recognition` tools.
 ![Dimension reduction summary](/assets/2018-09-05-scaling/scaling.png)
 
 
-These tools are computational techniques in genomics and statistics.
+These tools rely computational techniques in genomics and statistics.
 Here is a list of techniques that describe what will be used on the genes in the `white box`:
    - Feature engineering & regularization (lasso, ridge, elastic)
    - Data subsetting, extraction, reformating
