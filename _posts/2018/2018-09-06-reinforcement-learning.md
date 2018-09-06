@@ -6,15 +6,17 @@ categories: [genetics, pipelines]
 tags: [machine learning, genetics]
 ---
 
+Yes! Definitely yes. But only with the right computational biologists.
+
 `Reinforcement learning` is another statistical beast that has a special analytical design because of which it can recognize special patterns in the data.
 To deliver a prediction it requires first a feedback, then an input. 
 It will train the user options, which are pushed onto the execution stack, then produces an outcome.
-Lastly, relying on an action and a judgement will help the model converge on a single prediction.
+Lastly, relying on an action and a judgment will help the model converge on a single prediction.
 
 * The world can be cancer.
 * A state (feedback and input) can be cell growth or cell cycle.
 * An option can be mutation or copy number variants.
-* A reward (action and judgement) can be synonymous or deleterious mutations.
+* A reward (action and judgment) can be synonymous or deleterious mutations.
   - Low reward is for an outcome being cancer
   - High reward is for either outcomes, dead cell or healthy cell
 * A policy (good/bad mutation) maps observations (mutations) to actions (consequence having that mutation).

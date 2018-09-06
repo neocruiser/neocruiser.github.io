@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Diffuse large B-cell lymphoma"
+title: "The current state of diffuse large B-cell lymphoma and genetics"
 date: 2018-09-06 10:12:02
 categories: [review, genetics]
 tags: [cancer]
 ---
 
-Diffuse large B-cell lymphoma (DLBCL) encompass over 30% of Non-Hodgkin lymphoma cases, which make it the most common subtype with more than 4000 new cases a year in Canada. 
+Diffuse large B-cell lymphoma (DLBCL) encompasses over 30% of Non-Hodgkin lymphoma cases, which make it the most common subtype with more than 4000 new cases a year in Canada. 
 Using modern immunochemotherapies, more than 70% of patients are cured.
 The remainders are either refractory to the first line of the regimen or relapse after treatment.
 
@@ -16,17 +16,18 @@ They are used in wide range of regimens across many cancers, including leukemia 
 The effectiveness of these compounds comes with the burden of higher toxicity, causing wide range of cardiotoxicity and neurotoxicity.
 Anthracyclines, target DNA/RNA synthesis and cause cell cycle interruption.
 They disrupt the function of topoisomerases that relax the chromatine and make it accessible to the replication and transcription machinery of the cell.
-Toxicity is the consequence of intra-cellular damage.
-For this reason anthracyclines also promote a cell increase of free oxygen radicals.
-These radicals also disrupt histone configuration and cause DNA damage.
+Whereas toxicity can affet tissue micro-environments, it can be an indirect cause of intra-cellular damage.
+For this reason, anthracyclines also promote cells increase of free oxygen radicals.
+These radicals disrupt histone configuration and cause direct DNA damage.
 
 These immunochemotherapies are effective because they are designed for one purpose, cell destruction.
-Although effective, the elimination of all tumor cell is not guaranteed.
+Although effective, the elimination of all tumor cells in the body is not guaranteed.
 Remaining tumor cells, under new micro-environmental toxic conditions, change behavior and evolve dramatically to a more aggressive states.
 These new states can be qualified and properties estimated under new laws of clonal evolution.
 Only tumor cells with special gene signatures would survive under these therapeutic pressures.
 These signatures are quantified by the expression of genes.
-They represent the consequence of random DNA variants that increase the predisposition of a host to relapse and accrue more selective mutations which favor the appearance of more aggressive tumors.
+They represent the consequence of random DNA variants that increase the predisposition of a host to relapse and accrue more selective mutations.
+The latter favors the appearance of more aggressive tumors.
 
 
 A certain 5% of individuals who relapse after treatment, develop on average 5 months from diagnosis, a central nervous system (CNS) relapse. 

@@ -8,7 +8,7 @@ body {
 }
 /* background selection for all the site #ffeda0 */
 ::selection {
-    color: #a50f15;
+    color: #800026;
     font-weight: 425;
 }
 hr {
@@ -65,8 +65,9 @@ div.content pre {
   padding: 14px;
   color: #737373;
   overflow-x: auto;
-  font-family: menlo, Monaco, Consolas, 'Courier New', monospace;
-  font-size: 12px;
+  line-height: 1.1em;
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 11px;
   border: none;
 }
 /* background selection for codes */ 
