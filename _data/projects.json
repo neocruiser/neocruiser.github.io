@@ -1,42 +1,45 @@
 [
-	{
-		"slug": "cool-project",
-		"name": "Lymphoma & Machine Learning Classification",
-		"image": "placeholder.jpg",
-		"url": "https://www.google.com",
-		"date": "Dec 2017",
-		"tags": ["Machine Learning","R"]
-	},
-	{
-		"name": "Host-Parasite Cross-Talk & Transcriptomics",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Dec 2016",
-	    "tags": ["Bash","R","Genetic Networks"]
-	},
-	{
-		"name": "Genetic Interactions & Neuropeptides Across Tissues",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Dec 2015",
-	    "tags": ["Bash","R","Genetic Networks"]
-	},
-	{
-		"name": "Finding New Virulence Genes",
-		"image": "placeholder.jpg",
-		"date": "Aug 2015",
-	    "tags": ["R","Bash","Data Mining"]
-	},
-	{
-		"name": "New Mechanisms In Growth & Mortality",
-		"image": "placeholder.jpg",
-		"date": "Dec 2014",
-		"tags": ["Machine Learning","R"]
-	},
-	{
-		"name": "New Regulators Of Growth & Metamorphosis",
-		"image": "placeholder.jpg",
-		"date": "Dec 2013",
-		"tags": ["R","Genetic Networks"]
-	}
+    {
+	"slug": "cool-project",
+	"name": "Lymphoma & Machine Learning Classification",
+	"image": "relapse.png",
+	"url": "https://github.com/neocruiser/Rstats/tree/master/relapse",
+	"date": "Dec 2017",
+	"tags": ["Machine Learning","R"]
+    },
+    {
+	"name": "Host-Parasite Cross-Talk & Transcriptomics",
+	"image": "placeholder.jpg",
+	"url": "https://github.com/neocruiser/Rstats/tree/master/nodule",
+	"date": "Dec 2016",
+	"tags": ["Bash","R","Genetic Networks", "Python","Perl"]
+    },
+    {
+	"name": "Gene & Neuropeptides Tissue Interaction",
+	"image": "placeholder.jpg",
+	"url": "https://github.com/neocruiser/Rstats/tree/master/ganglia",
+	"date": "Dec 2015",
+	"tags": ["Bash","R","Genetic Networks","Python","Perl"]
+    },
+    {
+	"name": "Finding New Virulence Genes & SNP Hotspots",
+	"image": "virulence.png",
+	"url" : "https://github.com/neocruiser/Rstats/tree/master/rnaseQPX",
+	"date": "Aug 2015",
+	"tags": ["R","Bash","Data Mining","Perl"]
+    },
+    {
+	"name": "New Mechanisms of Cell Growth & Mortality",
+	"image": "development.jpg",
+	"url":"https://github.com/neocruiser/Rstats",
+	"date": "Dec 2014",
+	"tags": ["Machine Learning","R"]
+    },
+    {
+	"name": "New Regulators in Tissue Development",
+	"image": "regulators.png",
+	"url":"https://github.com/neocruiser/Rstats",
+	"date": "Dec 2013",
+	"tags": ["R","Genetic Networks"]
+    }
 ]
