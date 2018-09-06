@@ -26,7 +26,6 @@ From that distribution, an expectation score is estimated.
 The score helps the agent learn.
 Therefore, from the agent's perspective, the prediction is best when the whole distribution is known.
 
-
 ![Notes on reinforcement learning](/assets/2018/reinforcement-learning-cancer.jpg){:height="560px" width="420px"}
 
 
