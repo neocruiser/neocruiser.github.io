@@ -6,9 +6,10 @@ body {
   font-size: 14px;
   color: #666;
 }
-/* background selection for all the site */
+/* background selection for all the site #ffeda0 */
 ::selection {
-    background: #ffeda0;
+    color: #a50f15;
+    font-weight: 425;
 }
 hr {
   margin-top: 20px;
