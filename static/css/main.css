@@ -6,6 +6,10 @@ body {
   font-size: 14px;
   color: #666;
 }
+/* background selection for all the site */
+::selection {
+    background: #ffeda0;
+}
 hr {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -63,6 +67,10 @@ div.content pre {
   font-family: menlo, Monaco, Consolas, 'Courier New', monospace;
   font-size: 12px;
   border: none;
+}
+/* background selection for codes */ 
+div.selection pre {
+    text-shadow: 1px 1px 0 #27ae60;
 }
 footer {
   border-top: 1px solid #F7F1F1;
