@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best way to visualize a Redundancy analysis in R"
+title: "One of two best ways to visualize a Redundancy Analysis in R"
 date: 2018-09-06 17:51:02
 categories: [R]
 tags: [statistics]

@@ -13,13 +13,13 @@ To deliver a prediction it requires first a feedback, then an input.
 It will train the user options, which are pushed onto the execution stack, then produces an outcome.
 Lastly, relying on an action and a judgment will help the model converge on a single prediction.
 
-* The world can be cancer.
-* A state (feedback and input) can be cell growth or cell cycle.
-* An option can be mutation or copy number variants.
-* A reward (action and judgment) can be synonymous or deleterious mutations.
+* The statistical *world* can cover cancer research.
+* A *state* (feedback and input) can be cell growth or cell cycle.
+* An option* can be mutation or copy number variants.
+* A *reward* (action and judgment) can be synonymous or deleterious mutations.
   - Low reward is for an outcome being cancer
   - High reward is for either outcomes, dead cell or healthy cell
-* A policy (good/bad mutation) maps observations (mutations) to actions (consequence having that mutation).
+* A *policy* (good/bad mutation) maps observations (mutations) to actions (consequence having that mutation).
 
 
 Because of its flexibility, RL is vulnerable to environment overfitting.
