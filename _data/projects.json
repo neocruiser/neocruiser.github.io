@@ -9,14 +9,14 @@
     },
     {
 	"name": "Host-Parasite Cross-Talk & Transcriptomics",
-	"image": "placeholder.jpg",
+	"image": "virulence2.png",
 	"url": "https://github.com/neocruiser/Rstats/tree/master/nodule",
 	"date": "Dec 2016",
 	"tags": ["Bash","R","Genetic Networks", "Python","Perl"]
     },
     {
 	"name": "Gene & Neuropeptides Tissue Interaction",
-	"image": "placeholder.jpg",
+	"image": "gill-network.png",
 	"url": "https://github.com/neocruiser/Rstats/tree/master/ganglia",
 	"date": "Dec 2015",
 	"tags": ["Bash","R","Genetic Networks","Python","Perl"]
