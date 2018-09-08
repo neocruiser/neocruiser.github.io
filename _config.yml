@@ -2,16 +2,25 @@ title: Deep Breath
 description: Genetics Meets Visualization
 author: Sleiman Bassim
 github: https://github.com/neocruiser
-about: I Apply Computational Statistics To Genomic & Genetic Data
+about: I Apply Computational Statistics to Genomic & Genetic Data
 avatar_url: /static/img/sleiman.jpg
 
 enableTags: true
 tagarray: []
 
 collections:
-  project:
-    output: true
-    permalink: /project/:path/
+
+publications:
+  collections_dir: static
+  permalink: /publications/:path/
+
+resume:
+  collections_dir: static
+  permalink: /resume/:path/
+
+project:
+  output: true
+  permalink: /project/:path/
 
 social:
     - icon: fa-twitter

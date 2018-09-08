@@ -4,7 +4,7 @@ title: "Welcome to Deep Breath!"
 date: 2018-08-05 19:51:02 +0700
 categories: [bioinformatics, pipelines]
 tags: [genetics, pipelines]
-image: Broadcast_Mail.png
+permalink: /welcome/
 ---
 
 For more than a decade, I've worked in academia to simplify carefully designed experiments.

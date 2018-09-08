@@ -16,11 +16,11 @@ To identify the genetic players of such events, it is better to think of gene ne
 Hidden gene patterns are responsible of gene-gene interactions, which are responsible for triggering some specifically-timed molecular mechanisms.
 Below, I show how groups of genes (12 clusters around the RDA) have different patterns during developmental stages of larvae (egg, trocophore, veliger, pedivliger, and juveniles).
 The redundancy analysis constrain these clusters of genes to the different stage predictors.
-Also, I am showing special preferential genes, abbreviated as *TF* and a numerical id. 
+Also, I am showing special preferential genes, abbreviated as *TF* and a numerical id.
 These are transcription factors supposedly responsible of the regulation of these patterns.
 
 
-![Redundancy analysis](/assets/2018/development.jpg){:height="520px" width="520px"}
+![Redundancy analysis](/assets/2018/development.png){:height="520px" width="520px"}
 
 
 
