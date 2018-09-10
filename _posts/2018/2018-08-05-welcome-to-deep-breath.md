@@ -4,15 +4,15 @@ title: "Welcome to Deep Breath!"
 date: 2018-08-05 19:51:02 +0700
 categories: [bioinformatics, pipelines]
 tags: [genetics, pipelines]
-permalink: /welcome/
+permalink: /summary/
 ---
 
 For more than a decade, I've worked in academia to simplify carefully designed experiments.
 I covered diverse species from bacteria, invertebrates to human genetics.
 This blog will contain only `original` content and a closer look at my peer-reviewed analytics.
 
-Here, I will rely mostly on data visualizations, for interpretability purposes.
-Alongside code gists featured in my [Github repos][github-repos].
+Posts will be centered about data visualization practices, for interpretability purposes.
+Alongside code gists featured from my [Github repos][github-repos].
 
 For example, below is the representation of a common gene profiling pipeline.
 It begins with the full size of the genome, sequenced or printed on glass microarrays.
@@ -23,7 +23,7 @@ Lastly, rare signals are inferred using `pattern recognition` tools.
 ![Dimension reduction summary](/assets/2018/scaling.png)
 
 
-These tools rely computational techniques in genomics and statistics.
+These tools implement computational techniques in genomics and statistics.
 Here is a list of techniques that describe what will be used on the genes in the `white box`:
    - Feature engineering & regularization (lasso, ridge, elastic)
    - Data subsetting, extraction, reformatting

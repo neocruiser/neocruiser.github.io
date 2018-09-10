@@ -76,9 +76,9 @@ Machine learning was even more complex, a black box of statistics.
 
 Now, its 2018, more than a decade after leaving Lebanon.
 I develop machine learning and bioinformatics techniques to study genetics across many species.
-I help laboratories discover the intricate gene interactions in disease mechanisms.
+My designs helps laboratories discover the intricate gene interactions in disease mechanisms.
 The process is far from being straightforward.
-We are left struggling with scientists who take shortcuts, I have felt the defects of such applications.
+I am left struggling with scientists who take shortcuts, I have felt the defects of such applications.
 I am a tall bearded man walking amidst a science that still fear all things new.
 
 
