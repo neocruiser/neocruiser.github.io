@@ -11,6 +11,7 @@ tagarray: []
 collections:
 
 publications:
+  output: true
   collections_dir: static
   permalink: /publications/:path/
 
@@ -38,6 +39,12 @@ urls:
       url: /about/
     - text: My Projects
       url: /projects/
+    - text: Academic CV
+      url: /academic/
+    - text: Resume
+      url: /resume/
+    - text: Publications
+      url: /publications/
     - text: CSS Feed
       url: /feed.xml
 
