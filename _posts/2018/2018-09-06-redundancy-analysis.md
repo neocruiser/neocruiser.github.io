@@ -13,7 +13,7 @@ Having these two genes constrained to one predictor, means that these genes are 
 That response is the consequence of a mechanism, which can be proposed to be specific to that one predictor.
 
 
-![Redundancy analysis](/assets/2018/rda-lasso.png){:height="520px" width="520px"}
+![Redundancy analysis](/assets/2018/rda-lasso.png)
 
 
 The code below will create this visualization showing many summaries and significance metrics.

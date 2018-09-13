@@ -20,9 +20,9 @@ Also, I am showing special preferential genes, abbreviated as *TF* and a numeric
 These are transcription factors supposedly responsible of the regulation of these patterns.
 
 
-![Redundancy analysis](/assets/2018/development.png){:height="520px" width="520px"}
+![Redundancy analysis](/assets/2018/development.png)
 
-
+[comment]: <> { {:height="520px" width="520px"} }
 
 [github]: https://github.com/neocruiser/pipelines/blob/fdcc9ba8cfd7ff6fd25600e0fe61ad4f9e9a37b8/r/classification.R#L812
 [rda1]: https://neocruiser.github.io/r/2018/09/06/redundancy-analysis.html
