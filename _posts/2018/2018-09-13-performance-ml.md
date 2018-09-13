@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Will a machine learning model be as significant as its overall performance?"
+title: "Will machine learners be as significant as their overall performance?"
 date: 2018-09-13 13:09:02
 categories: [bioinformatics]
 tags: [machine learning]
@@ -17,7 +17,12 @@ Such performance takes into consideration different metrics.
    - Area under the ROC curve
    - Recall/Precision ratio
    - Specificity/Sensitivity ratio
-   - Confidence intervals
+   - Confidence intervals at 95%
+   - Chi-squared, Kappa & false discovery rates
+   - Positive & negative likelihood ratio
+   - Precision & prevalence 
+   - Divergence score
+   - Miss rates & false negative
 
 Accordingly, in the scatterplot below, I show a clear linearity between increased accuracy predicting a machine learning class and the significance of the classification. 
 This significance consider how much chance is involved in predicting randomly one class as the correct class.
