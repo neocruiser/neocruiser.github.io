@@ -24,12 +24,20 @@ project:
   permalink: /project/:path/
 
 social:
-    - icon: fa-twitter
-      link: "https://twitter.com/vizGenetics"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/sleimanbassim"
+    - icon: fa-twitter
+      link: "https://twitter.com/vizGenetics"
     - icon: fa-github
       link: "https://github.com/neocruiser"
+    - icon: fa-area-chart
+      link: "https://www.fiverr.com/vizgenetics"
+    - icon: fa-camera
+      link: "https://www.flickr.com/photos/7557821@N04/"
+    - icon: fa-file-pdf-o
+      link: "https://www.researchgate.net/profile/Sleiman_Bassim"
+    - icon: fa-rss
+      link: /feed.xml
 
 share:
   twitter_username: vizGenetics
@@ -45,8 +53,6 @@ urls:
       url: /resume/
     - text: Publications
       url: /publications/
-    - text: CSS Feed
-      url: /feed.xml
 
 url: "https://neocruiser.github.io"
 baseurl: ""
@@ -58,6 +64,7 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+  - jekyll-seo-tag
 
 compress_html:
   clippings: all
