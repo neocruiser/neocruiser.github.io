@@ -38,7 +38,7 @@ Treatment however is highly toxic to be administered early on and for the remain
 
 Genetic risk factors for detecting relapse after chemotherapeutic administration can and must be identified.
 The left section of the visualization below represent a probabilistic number of individuals diagnosed with lymphoma in Canada each year.
-The right section shows a significant sample size of that Canadian population to be studied for genetic signatures.
+The right section shows a significant sample size of that Canadian population to be studied for genetic risk factors.
 
 
 ![Diffuse large B-cell summary](/assets/2018/bonhomme.png)
