@@ -72,7 +72,7 @@ At that time a new artificial intelligence field was being developed to study an
 Machine learning was even more complex, a black box of statistics.
 
 Now, its 2018, more than a decade after leaving Lebanon.
-I develop `machine learning` and `bioinformatics` techniques to investigate `genetics` cues across many species.
+I develop `machine learning` and `bioinformatics` techniques to investigate `genetic` cues across many species.
 My designs help laboratories discover the intricate gene networks in disease mechanisms.
 The process is far from being straightforward.
 I am left struggling with scientists who take shortcuts, I have felt the defects of such applications.
