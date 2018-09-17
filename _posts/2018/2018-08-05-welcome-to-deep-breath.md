@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Deep Breath!"
+title: "Welcome to Splinter Genetics!"
 date: 2018-08-05 19:51:02 +0700
 categories: [bioinformatics, pipelines]
 tags: [genetics, pipelines]
