@@ -23,10 +23,9 @@ Education
 * M.Sc., Genetics & Molecular Biology, [**University of Henri Poincaré**](http://formations.univ-lorraine.fr/fr-FR/liste), Nancy,
 France *Winter 2009*
 
-* B.Sc., Behavioural Genetics & Parasitology, **University of Lebanon**,
-Lebanon *2005 - 2006*
+* B.Sc., Behavioural Genetics & Parasitology, **University of Lebanon**, Beirut, Lebanon *2005 - 2006*
 
-* Premedical studies, **University of Lebanon**, Lebanon *2004*
+* Premedical studies, **University of Lebanon**, Beirut, Lebanon *2004*
 
 Professional Employment
 =======================
@@ -256,7 +255,7 @@ New York) *Summer 2015*
 - Supervision in statistics for Guangchen Liu (PhD, University of Vermont)
 *Winter 2015*
 
-- LaTeX tutor for Anne-Sophie Sainte Marie (MSc, University of Quebec) *2013*
+- LaTeX tutor for Anne-Sophie Ste-Marie (MSc, University of Quebec) *2013*
 
 - Supervision in genomics for Camille Lacroix (PhD, University of Western
 Brittany) *2012*
