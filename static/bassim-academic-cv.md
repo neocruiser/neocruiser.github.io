@@ -316,31 +316,30 @@ Projects & Experience
 
 **Machine learning & risk prediction in Lymphoma** (1037 hours) *Winter
 2018*
-Machine and deep learning pipeline to classify patients with Lymphoma
-into low or high risk candidates based on clinical data. Classifier
-back-end on genetic networks, regularization, and mutation data from
-exome sequencing of 5 patients. [Github
+Developed machine and deep learning pipeline to classify patients with Lymphoma
+into low or high risk. Classifier
+back-end on expression data, genetic networks, regularization, and mutation data from
+exome sequencing. [Github
 link](https://github.com/neocruiser/Rstats/tree/master/relapse)
 
 **Host and parasite cross-talk and infection mechanisms** (846 hours)
 *Spring 2017*
-Constructed a pipeline to separate and de novo assemble dual RNA-seq
+Developed pipeline that separates and de novo assembles dual RNA-seq
 pathogen and host transcriptomes, classify and cluster functions.
 Inferred cross-species interaction networks. [Github
 link](https://github.com/neocruiser/Rstats/tree/master/nodule)
 
 **Genetic interactions that link neuropeptides to feeding behavior**
 (1853 hours) *Summer 2016*
-Constructed pipeline for de novo assembly and regulatory network
-construction from non-model RNA-seq data. Inferred gene-gene
+Developed pipeline for de novo assembly and regulatory networks from RNA-seq data. Output: gene-gene
 interactions, pathway clustering, annotation, and machine learning
 comparison of cell lines with neural networks. [Github
 link](https://github.com/neocruiser/Rstats/tree/master/ganglia)
 
 **Shotgun metagenomic analyses** (56 hours) *Spring 2016*
-Constructed a classification pipeline to phylogenetically associate DNA
-shotgun bacteria and characterized pathogenic interactions with host
-from metagenomic sequenced samples derived from oyster mucus. [Github
+Constructed a classification pipeline to phylogenetically classify DNA
+shotgun bacteria. Characterized pathogenic interactions with host
+from metagenomic sequenced samples of oyster mucus. [Github
 link](https://github.com/neocruiser/Rstats/tree/master/metageno16)
 
 **Nature and origin of parasite in RNA-seq host/pathogen samples** (226
@@ -351,24 +350,23 @@ analysis.
 
 **Viral genome assemblies in high throughput sequencing samples** (100
 hours) *Winter 2016*
-Constructed pipeline to assemble DNA shotgun virus genomes from marine
-animal samples for pathogen classification (virus, bacteria, archae,
+Developed batch pipelines that assemble DNA shotgun virus genomes for pathogen classification (virus, bacteria, archae,
 plasmids) and their affecting abundance on host protein synthesis.
 
 **Structured database for genetic interrogation and discovery** (20
 hours) *Summer 2015*
-Constructed a MySQL database that includes genetic variants, RNA-seq
+Constructed a MySQL database for genetic variants, RNA-seq
 gene expression, annotations from 20 public libraries, gene-gene
 interactions, ontologies, and metabolic pathways.
 
 **New genes for parasite virulence and aggressiveness** (625 hours)
 *Summer 2015*
 Developed technique to call genetic mutations in different parasitic
-strains without annotated genome. Genomic hotspots identified from
+strains without annotated genome. Identified genomic hotspots from
 RNA-seq data. [Github
 link](https://github.com/neocruiser/Rstats/tree/master/rnaseQPX)
 
-**Supervised prediction of Parkinson’s disease based on clinical data**
+**Supervised prediction of Parkinson’s disease**
 (307 hours) *Summer 2014-Fall 2015*
 Designed new back-end pipeline built on a machine learning model with
 [elastic net](https://en.wikipedia.org/wiki/Elastic_net_regularization)
@@ -384,44 +382,43 @@ Developed new machine learning ensemble model with
 [ANN](https://en.wikipedia.org/wiki/Artificial_neural_network),
 [boosted](https://en.wikipedia.org/wiki/Gradient_boosting)-[GLM](https://en.wikipedia.org/wiki/Generalized_linear_model),
 and [bagging](https://en.wikipedia.org/wiki/Bootstrap_aggregating) for
-classification of cellular mechanisms. Genes responsible in growth and
-mortality were characterized from RNA-seq and microarray timeseries
+classification of cellular mechanisms. Isolated genes responsible in growth and
+mortality from RNA-seq and microarray timeseries
 data. [Github
 link](https://github.com/neocruiser/thesis2014/blob/master/Paper3/paper3.R)
 
 **New transcription factors that regulate growth and metamorphosis**
 (1020 hours) *2010-11*
-Developed RNA-seq and microarray pipelines. First time implementation on
+Developed RNA-seq and microarray batch & biostatistics pipelines. First time implementation on
 marine [invertebrate
 larvae](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?token=erctameenrartcd&acc=GSE55580)
-of Bayesian model to infer gene-gene interactions. Identified gene
-networks that trigger metamorphosis, lower immune defense, and increase
+of Bayesian model to infer gene-gene interactions. Identified
+networked genes that trigger metamorphosis, lower immune defense, and increase
 metabolism. [Github
 link](https://github.com/neocruiser/thesis2014/blob/master/ebdbn/ebdbn.R)
 
 **Role of
 [PPARs](https://en.wikipedia.org/wiki/Peroxisome_proliferator-activated_receptor)
 in glioblastoma and breast cancer** *Fall 2009*
-Designed a predictive model for gene selection that work on top of mining gene affinity databases. Validated PPAR-regulated genes by protein-DNA (ChIP) essays and their function in cell migration function \& potential targeting in cancer therapy.
+Designed a gene-selection predictive model with a mining kernel of protein affinity databases. Validated PPAR-regulated genes by protein-DNA (ChIP) essays and their function in cell migration function \& potential targeting in cancer therapy.
 
 **Designing analyses that estimate mutation affinity** *Fall 2008*
 Developed a pattern recognition technique in collaboration with
 [Laboratoire Lorrain de Recherche en Informatique et Ses
 Applications](http://hal.inria.fr/LORIA/en/), (PI: [Dr. Marie-Dominique
 Devignes](http://www.researchgate.net/profile/Marie-Dominique_Devignes)).
-Recognized 7 cancer-causing genes
+Isolated 7 cancer-causing genes
 ([PPARs](https://en.wikipedia.org/wiki/Peroxisome_proliferator-activated_receptor))
-& their high-affinity binding sites in the human genome.
+& validated their high-affinity binding sites in the human genome.
 
 **Lowering rheumatoid arthritis severity in mouse** *Spring 2008*
-Constructed
+Constructed bacterial 
 [vectors](https://en.wikipedia.org/wiki/Vector_(molecular_biology)) with
 [microRNA](https://en.wikipedia.org/wiki/MicroRNA). Carried targeted
-gene silencing of specific interleukins in *E. coli* and macrophages.
+gene silencing of specific interleukins in *E. coli* and murine macrophages.
 
 **In vitro bacteria transformation** *Spring 2007*
-Constructed vectors to transform bacteria with antibiotic resistance
-genes. Validated in vitro. Optimizing bacteria conjugation.
+Constructed vectors and transformed bacteria with antibiotic resistance genes. Validated in vitro. Optimized the yield of bacteria conjugation for the yogurt and cheese industry.
 
 **Identify genes for transfer of antibiotic resistance** *Fall 2007*
 Constructed bacterial
