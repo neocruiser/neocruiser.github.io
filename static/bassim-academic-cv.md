@@ -10,7 +10,7 @@ Background & Specialty
 Since 2007, my research focuses primarily on risk prediction for cancer, cell aging, immune and brain disorders funded by organizations in France, Canada, and the United States.
 Doctor and consultant in genetics, functional & computational genomics, and bioinformatics.
 Specialization in key organisms & non-model species (14 years), sequencing pipelines (1050 hours), and machine learning (770 hours) using R (7300 hours), Bash (5720 hours), and Python (200 hours).
-Research activities cover systems biology, gene networks, clustering, machine learning, automation & batch scripting, warehousing data \& performance computing (PBS, MySQL, Spark), single cell sequencing, and heterogeneous data integration ([public
+Research activities cover systems biology, gene networks, clustering, machine learning, automation & batch scripting, warehousing data & performance computing (PBS, MySQL, Spark), single cell sequencing, and heterogeneous data integration ([public
 pipelines](https://github.com/neocruiser/pipelines), [peer-reviewed
 published projects](https://github.com/neocruiser/Rstats) &
 [website](https://neocruiser.github.io)).
@@ -316,7 +316,7 @@ Projects & Experience
 =====================
 
 **Machine learning & risk prediction in Lymphoma** (1037 hours) *Winter
-2018*\
+2018*
 Machine and deep learning pipeline to classify patients with Lymphoma
 into low or high risk candidates based on clinical data. Classifier
 back-end on genetic networks, regularization, and mutation data from
@@ -324,53 +324,53 @@ exome sequencing of 5 patients. [Github
 link](https://github.com/neocruiser/Rstats/tree/master/relapse)
 
 **Host and parasite cross-talk and infection mechanisms** (846 hours)
-*Spring 2017*\
+*Spring 2017*
 Constructed a pipeline to separate and de novo assemble dual RNA-seq
 pathogen and host transcriptomes, classify and cluster functions.
 Inferred cross-species interaction networks. [Github
 link](https://github.com/neocruiser/Rstats/tree/master/nodule)
 
 **Genetic interactions that link neuropeptides to feeding behavior**
-(1853 hours) *Summer 2016*\
+(1853 hours) *Summer 2016*
 Constructed pipeline for de novo assembly and regulatory network
 construction from non-model RNA-seq data. Inferred gene-gene
 interactions, pathway clustering, annotation, and machine learning
 comparison of cell lines with neural networks. [Github
 link](https://github.com/neocruiser/Rstats/tree/master/ganglia)
 
-**Shotgun metagenomic analyses** (56 hours) *Spring 2016*\
+**Shotgun metagenomic analyses** (56 hours) *Spring 2016*
 Constructed a classification pipeline to phylogenetically associate DNA
 shotgun bacteria and characterized pathogenic interactions with host
 from metagenomic sequenced samples derived from oyster mucus. [Github
 link](https://github.com/neocruiser/Rstats/tree/master/metageno16)
 
 **Nature and origin of parasite in RNA-seq host/pathogen samples** (226
-hours) *Winter 2016*\
+hours) *Winter 2016*
 Constructed pipeline for de novo assembly and parasite classification
 from dual RNA-seq infected host tissues for comparative genomics
 analysis.
 
 **Viral genome assemblies in high throughput sequencing samples** (100
-hours) *Winter 2016*\
+hours) *Winter 2016*
 Constructed pipeline to assemble DNA shotgun virus genomes from marine
 animal samples for pathogen classification (virus, bacteria, archae,
 plasmids) and their affecting abundance on host protein synthesis.
 
 **Structured database for genetic interrogation and discovery** (20
-hours) *Summer 2015*\
+hours) *Summer 2015*
 Constructed a MySQL database that includes genetic variants, RNA-seq
 gene expression, annotations from 20 public libraries, gene-gene
 interactions, ontologies, and metabolic pathways.
 
 **New genes for parasite virulence and aggressiveness** (625 hours)
-*Summer 2015*\
+*Summer 2015*
 Developed technique to call genetic mutations in different parasitic
 strains without annotated genome. Genomic hotspots identified from
 RNA-seq data. [Github
 link](https://github.com/neocruiser/Rstats/tree/master/rnaseQPX)
 
 **Supervised prediction of Parkinson’s disease based on clinical data**
-(307 hours) *Summer 2014-Fall 2015*\
+(307 hours) *Summer 2014-Fall 2015*
 Designed new back-end pipeline built on a machine learning model with
 [elastic net](https://en.wikipedia.org/wiki/Elastic_net_regularization)
 and [SVM](https://en.wikipedia.org/wiki/Support_vector_machine) to
@@ -379,7 +379,7 @@ within different world populations. [Github
 link](https://github.com/neocruiser/Rstats/blob/master/brain.org#2-plink)
 
 **Machine learning predicting cellular growth and mortality** (605
-hours) *2012-14*\
+hours) *2012-14*
 Developed new machine learning ensemble model with
 [lasso](https://en.wikipedia.org/wiki/Least_squares#Lasso_method),
 [ANN](https://en.wikipedia.org/wiki/Artificial_neural_network),
@@ -391,7 +391,7 @@ data. [Github
 link](https://github.com/neocruiser/thesis2014/blob/master/Paper3/paper3.R)
 
 **New transcription factors that regulate growth and metamorphosis**
-(1020 hours) *2010-11*\
+(1020 hours) *2010-11*
 Developed RNA-seq and microarray pipelines. First time implementation on
 marine [invertebrate
 larvae](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?token=erctameenrartcd&acc=GSE55580)
@@ -402,11 +402,11 @@ link](https://github.com/neocruiser/thesis2014/blob/master/ebdbn/ebdbn.R)
 
 **Role of
 [PPARs](https://en.wikipedia.org/wiki/Peroxisome_proliferator-activated_receptor)
-in glioblastoma and breast cancer** *Fall 2009*\
+in glioblastoma and breast cancer** *Fall 2009*
 Identified PPAR-regulated genes. Protein-DNA (ChIP) essays validated the
 genes cell migration function & their potential in cancer therapy.
 
-**Designing analyses that estimate mutation affinity** *Fall 2008*\
+**Designing analyses that estimate mutation affinity** *Fall 2008*
 Developed a pattern recognition technique in collaboration with
 [Laboratoire Lorrain de Recherche en Informatique et Ses
 Applications](http://hal.inria.fr/LORIA/en/), (PI: [Dr. Marie-Dominique
@@ -415,17 +415,17 @@ Recognized 7 cancer-causing genes
 ([PPARs](https://en.wikipedia.org/wiki/Peroxisome_proliferator-activated_receptor))
 & their high-affinity binding sites in the human genome.
 
-**Lowering rheumatoid arthritis severity in mouse** *Spring 2008*\
+**Lowering rheumatoid arthritis severity in mouse** *Spring 2008*
 Constructed
 [vectors](https://en.wikipedia.org/wiki/Vector_(molecular_biology)) with
 [microRNA](https://en.wikipedia.org/wiki/MicroRNA). Carried targeted
 gene silencing of specific interleukins in *E. coli* and macrophages.
 
-**In vitro bacteria transformation** *Spring 2007*\
+**In vitro bacteria transformation** *Spring 2007*
 Constructed vectors to transform bacteria with antibiotic resistance
 genes. Validated in vitro. Optimizing bacteria conjugation.
 
-**Identify genes for transfer of antibiotic resistance** *Fall 2007*\
+**Identify genes for transfer of antibiotic resistance** *Fall 2007*
 Constructed bacterial
 [vectors](https://en.wikipedia.org/wiki/Vector_(molecular_biology)).
 Isolated, extracted, and targeted genes that
