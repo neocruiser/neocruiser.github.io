@@ -402,8 +402,7 @@ link](https://github.com/neocruiser/thesis2014/blob/master/ebdbn/ebdbn.R)
 **Role of
 [PPARs](https://en.wikipedia.org/wiki/Peroxisome_proliferator-activated_receptor)
 in glioblastoma and breast cancer** *Fall 2009*
-Identified PPAR-regulated genes. Protein-DNA (ChIP) essays validated the
-genes cell migration function & their potential in cancer therapy.
+Designed a predictive model for gene selection that work on top of mining gene affinity databases. Validated PPAR-regulated genes by protein-DNA (ChIP) essays and their function in cell migration function \& potential targeting in cancer therapy.
 
 **Designing analyses that estimate mutation affinity** *Fall 2008*
 Developed a pattern recognition technique in collaboration with
