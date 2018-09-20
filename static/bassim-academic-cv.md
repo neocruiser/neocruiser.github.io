@@ -309,8 +309,7 @@ Bayesian modeling
 * Scientific Communication & Version Control
   - Emacs, Visual Studio, Org, Illustrator, InDesign, Blender, Markdown,
 GitHub
-  -TeX (LaTeX, <span><span>B-.05em<span>i-.025em b</span>-.08em
-TeX</span></span>), KnitR, and Beamer
+  -TeX (LaTeX, BibTeX), KnitR, Beamer, markdown
 
 Projects & Experience
 =====================
