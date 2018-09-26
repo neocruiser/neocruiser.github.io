@@ -4,7 +4,8 @@ title: "About me, my background & experiences"
 permalink: /about/
 ---
 
-I am a scientist in the field of genetics studying the central players of, of course, `heredity`.
+I am a scientist, in the field of genetics.
+I quantify the molecular and cellular traits of heritability.
 
 I started in Lebanon. A country historically known for its cedar trees.
 With 75 mentions in the old testament or the memorable use of cedars at the grave-site of one of the fathers of modern genetics, the American Luther Burban.
