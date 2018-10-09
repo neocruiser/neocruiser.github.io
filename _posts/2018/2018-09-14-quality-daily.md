@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Another way to keep track of the quality of my days"
+title: "Mindfulness daily: A metric to keeping track of my daily experiences"
 date: 2018-09-14 21:09:02
 categories: [others, personal]
 tags: [visualization]
