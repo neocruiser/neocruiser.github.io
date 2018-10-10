@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I've tracked my behavior and mood since 2016, this how it looks like"
+title: "I've tracked my behavior and mood since 2016. This how it looks!"
 date: 2018-09-14 22:09:02
 categories: [others, personal]
 tags: [visualization]

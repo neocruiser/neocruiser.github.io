@@ -4,17 +4,6 @@ title: "Academic Curriculum Vitae"
 permalink: /academic/
 ---
 
-Background & Specialty
-======================
-
-Since 2007, my research focuses primarily on risk prediction for cancer, cell aging, immune and brain disorders funded by organizations in France, Canada, and the United States.
-Doctor and consultant in genetics, functional & computational genomics, and bioinformatics.
-Specialization in key organisms & non-model species (14 years), sequencing pipelines (1050 hours), and machine learning (770 hours) using R (7300 hours), Bash (5720 hours), and Python (200 hours).
-Research activities cover systems biology, gene networks, clustering, machine learning, automation & batch scripting, warehousing data & performance computing (PBS, MySQL, Spark), single cell sequencing, and heterogeneous data integration ([public
-pipelines](https://github.com/neocruiser/pipelines), [peer-reviewed
-published projects](https://github.com/neocruiser/Rstats) &
-[website](https://neocruiser.github.io)).
-
 Education
 =========
 
@@ -58,47 +47,6 @@ Lorraine**](http://www.univ-lorraine.fr/), Nancy, France *2008 - 2009*
 Lorraine**](http://www.univ-lorraine.fr/), Nancy, France *Winter 2007*
 
 * Lab assistant, **Human Pathology Lab, Medlab**, Lebanon *Winter 2005*
-
-Grants & Awards
-===============
-
-- Award for Deep Learning & Reinforcement Learning Summer Schools in
-Toronto, funded by the Canadian Statistical Sciences Institute [CANSSI](http://www.canssi.ca/),
-**\$1000** *2018*
-
-- **PI** award in the US. Unraveling molecular processes associated with
-shellfish resistance to environmental and pathological stress.
-University of Stony Brook, funded by the Extreme Science
-and Engineering Discovery Environment ([XSEDE](http://www.psc.edu)) at Pittsburgh Supercomputing
-Center USA NSF, **\$61,209** *2016-2017*
-
-- **PI** award in the US. Investigating the health of marine animals and
-mechanisms of diseases caused by pathogenic microbes. University of
-Stony Brook, funded by the Institute for Advanced
-Computational Science ([IACS](http://www.iacs.stonybrook.edu/resources/lired-projectaccount-requests)) USA, **\$20,340** *2016-2017*
-
-- Fellowship in the US. National Sea Grant College Program at the Research
-Foundation of State University of New York. Funded by [NOAA](http://www.noaa.gov/) and by the [Gordon and Betty Moore Foundation](https://www.moore.org/),
-**\$94,565** *2015-2017*
-
-- **Co-PI** award. Characterizing the effects of environmental challenges
-on genome dynamics of marine parasites. University of Stony Brook,
-funded by [Greenfield](http://www.psc.edu/) at Pittsburgh Supercomputing
-Center USA NSF, **\$3390** *2015*
-
-- Travel award in Paris. Statistical workshop in linear prediction and
-non-linear analyses of categorical genetic traits, funded by [University
-of Quebec](https://www.uqar.ca/services/services-a-l-etudiant/bourses),
-**\$3,000** *2012*
-
-- Cumulative travel awards in Canada. Réseau international francophone en
-écotoxicologie aquatique for analyses of micropollutants, funded by
-[University of
-Quebec](https://www.uqar.ca/services/services-a-l-etudiant/bourses),
-**\$5,000** *2010-2012*
-
-- National award in Canada. New genomic approaches to discover growth and
-mortality biomarkers, funded by [FQRNT](http://www.frqnt.gouv.qc.ca/accueil) and the [University of Quebec](https://www.uqar.ca/services/services-a-l-etudiant/bourses), **\$75,000** *2009-2014*
 
 Peer reviewed Publications
 ==========================
@@ -187,129 +135,6 @@ Thesis, University of Lorraine Nancy 1, Faculty of Sciences, France,
 integrative and conjugative elements (ICEs) and their genomic variants
 in *Streptococcus thermophilus*. Graduate Thesis, University of Lorraine
 Nancy 1, Faculty of Sciences, France, 2007.
-
-Books & Reports
-===============
-
-- Bassim, S. Genomic and physiological processes during early development
-of the blue mussel *Mytilus edulis* (L., 1758): Impact of eicosanoid
-precursors. *Ph.D Dissertation, University of Quebec at Rimouski,
-Canada*, 2014.
-
-- Bassim, S. Molecular and physiological mechanisms associated with
-increased growth and low mortality rates during early larval development
-of the blue mussel *Mytilus edulis* (L., 1758). *Seminar, Institute of
-Sciences and Oceans, Quebec, Canada*, 2012.
-
-- Bassim, S. Consequences of the Baltic invasion of the Ctenophora species
-*Mnemiopsis leidyi* on the different trophic networks. *Report, Doctoral
-program, University of Quebec at Rimouski, Canada*, 2009b.
-
-- Bassim, S. Consequences of a lunar anomaly on the Saint-Lawrence Golf
-and estuary. *Report, Doctoral program, University of Quebec at
-Rimouski, Canada*, 2009a.
-
-- Bassim, S., Boumenir, Y. Characterisation of the intraspecies
-polymorphism of *Streptococcus thermophilus*. *Report, Laboratory of
-genetic and microbiology, University of Lorraine Nancy 1, Faculty of
-Sciences, France*, 2007.
-
-Teaching & Supervision
-======================
-
-- Workshop organizer & instructor, RNA-seq & bioinformatics (5 days, &lt;5 members, University
-of New York) *Summer 2017*
-
-- Computer science, statistics & biology judge at the [Nassau County Science
-Competition (NCSC)](https://www.cstl.org/), New York, USA *June 2017*
-
-- Computer science & molecular biology judge at the [WAC Lighting Foundation
-Invitational Science Fair](http://www.researchassociation.org/), New
-York, USA *April 2017*
-
-- Computational biology & bioinformatics judge at the [Science & Engineering
-Fair (LISEF)](http://www.lisef.org/?content_code=home), New York, USA
-*March 2017*
-
-- Science judge at the [Bay Scallop
-Bowl](http://you.stonybrook.edu/bayscallopbowl), New York, USA *February
-2017*
-
-- Computational biology & bioinformatics judge at the [Science & Engineering
-Fair (LISEF)](http://www.lisef.org/?content_code=home), New York, USA
-*February 2017*
-
-- Workshop instructor, data mining in transcriptomics (5 hours, &lt;20 members,
-University of New York) *Fall 2016*
-
-- Supervision in bioinformatics for Taejin Park (postdoc, University of
-New York) *Summer 2016*
-
-- Computer science & molecular biology judge at the [WAC Lighting Foundation
-Invitational Science Fair](http://www.researchassociation.org/), New
-York, USA *March 2016*
-
-- Supervision in bioinformatics for Amelie Segara (postdoc, University of
-New York) *Summer 2015*
-
-- Supervision in statistics for Guangchen Liu (PhD, University of Vermont)
-*Winter 2015*
-
-- LaTeX tutor for Anne-Sophie Ste-Marie (MSc, University of Quebec) *2013*
-
-- Supervision in genomics for Camille Lacroix (PhD, University of Western
-Brittany) *2012*
-
-- Supervision in molecular biology & genomics for Judith Rumin (MSc,
-University of Western Brittany) *2012*
-
-- Supervision in cell biology for Fernando Silva (PhD, University of
-Antofagasta) *2011*
-
-- Java tutor for Yasmine Boumenir (MSc, University of Nancy) *Winter 2008*
-
-Interpreted languages & Bioinformatics
-======================================
-
-* Data Mining, High-Performance Computing, Database Management & NGS Pipelines (12 years)
-  - R/Bioconductor (9 years), Bash (7 years), Perl (2 years), Python (2
-years), emacs-lisp (2 years)
-  - Core omics tools, pipeline automation, data mining & databases (8 years
-sequence analysis, clustering, variant calling, annotation, expression &
-others)
-  - High performance computing Torque PBS (4 years, XSEDE,
-[Bridges](http://www.psc.edu/index.php/bridges-approach),
-[Greenfield](https://psc.edu/index.php/resources-for-users/computing-resources/greenfield),
-[Comet](https://portal.xsede.org/sdsc-comet),
-[LI-red](http://www.iacs.stonybrook.edu/resources/handy-accounts#overlay-context=resources/accounts),
-Amazon AWS)
-  - MySQL (1 year), Hadoop
-  - [Tensorflow](https://www.tensorflow.org/) and Keras (&lt;1 year)
-  - [Theano/Lasagne](https://github.com/Lasagne/Lasagne) & [H2O/Sparkling
-Water](http://www.h2o.ai/) (&lt;1 year)
-
-* Multivariate Predictive Modeling & Machine Learning (10 years)
-  - Machine Learning (neural networks, kernelized support vectors, decision
-trees, dimension reduction, clustering, bagging, boosting, resampling,
-mini-batch stochastic sampling, regularization, unsupervised learning)
-  - Ordination
-([PCA](https://en.wikipedia.org/wiki/Principal_component_analysis),
-[CA](https://en.wikipedia.org/wiki/Correspondence_analysis),
-[MCA](https://en.wikipedia.org/wiki/Multiple_correspondence_analysis),
-Hierarchical MFA,
-[FAMD](https://en.wikipedia.org/wiki/Factor_analysis_of_mixed_data)) and
-Bayesian modeling
-
-* Visualization (10 years)
- - R, Python, [Power BI](https://powerbi.microsoft.com/en-us/), Circos, and
-[D3.js](http://d3js.org/) (HTML, CSS, JavaScript), Networks
-([Cytoscape](http://cytoscape.org/what_is_cytoscape.html),
-[Gephi](https://gephi.org/features/))
-
-* Scientific Communication & Version Control
-  - Emacs, Visual Studio, Org, Illustrator, InDesign, Blender, Markdown,
-GitHub
-  -TeX (LaTeX, BibTeX), KnitR, Beamer, markdown
 
 Projects & Experience
 =====================
